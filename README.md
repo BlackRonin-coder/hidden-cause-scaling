@@ -14,6 +14,8 @@
 
 [Research overview](docs/RESEARCH_OVERVIEW.md) &nbsp;·&nbsp; [Scientific boundaries](docs/SCIENTIFIC_BOUNDARIES.md) &nbsp;·&nbsp; [Synthetic demonstration](examples/README.md) &nbsp;·&nbsp; [References](docs/REFERENCES.md)
 
+**NEW · 3 NOVEMBER 2026:** [Scientific progress — observational controls, model limitations and independent-review requirements](docs/RESEARCH_PROGRESS_2026_11_03.md)
+
 **EXPLORATORY RESEARCH** &nbsp;|&nbsp; **PUBLIC OVERVIEW** &nbsp;|&nbsp; **NOT EXPERIMENTAL CONFIRMATION**
 
 *The event-horizon artwork is an artistic illustration, not a numerical black-hole simulation or evidence of dark matter.*
@@ -82,6 +84,8 @@ python3 -m unittest discover -s tests -v
 The example uses only the Python standard library. It does not implement a detector, infer dark-matter parameters or reproduce the unpublished research machinery.
 
 ## Where this work stands
+
+**November 2026 update:** The wider private research programme now includes source-pinned observational stress tests, covariance and competing-model diagnostics, and a technical review protocol. These are **not** published full-theory validation results. [Read the public scientific progress note](docs/RESEARCH_PROGRESS_2026_11_03.md).
 
 - **Research status:** Exploratory; public conceptual presentation.
 - **Independent physics validation:** Not established.
