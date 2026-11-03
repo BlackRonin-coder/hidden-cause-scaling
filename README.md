@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/public-research.png" width="100%" alt="Coal Tiger Innovations — public research and reproducible examples" />
+  <a href="https://github.com/BlackRonin-coder/hidden-cause-scaling"><img src="assets/dark-matter-event-horizon.webp" width="100%" alt="The Dark Matter Search — scientific black-hole event horizon illustration, Coal Tiger Innovations" /></a>
 </p>
 
 <div align="center">
@@ -15,6 +15,8 @@
 [Research overview](docs/RESEARCH_OVERVIEW.md) &nbsp;·&nbsp; [Scientific boundaries](docs/SCIENTIFIC_BOUNDARIES.md) &nbsp;·&nbsp; [Synthetic demonstration](examples/README.md) &nbsp;·&nbsp; [References](docs/REFERENCES.md)
 
 **EXPLORATORY RESEARCH** &nbsp;|&nbsp; **PUBLIC OVERVIEW** &nbsp;|&nbsp; **NOT EXPERIMENTAL CONFIRMATION**
+
+*The event-horizon artwork is an artistic illustration, not a numerical black-hole simulation or evidence of dark matter.*
 
 </div>
 
