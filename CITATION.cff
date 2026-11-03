@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If citing this public research perspective, please use the metadata below."
+title: "Hidden Causes: A Public Research Perspective on Residual-Guided Inquiry"
+type: software
+authors:
+  - family-names: Browne
+    given-names: Leon Maurice
+    affiliation: Coal Tiger Innovations
+date-released: 2026-11-03
+version: "0.1.0"
+url: "https://github.com/BlackRonin-coder/hidden-cause-scaling"
+abstract: "A public, exploratory perspective on hidden-cause inference, scientific limitations and a synthetic residual example. Not a claim of dark-matter detection."
